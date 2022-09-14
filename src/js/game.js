@@ -1,7 +1,7 @@
-import defaultData from './domain'
+import defaultData from './domain.js'
 
 
-class Game {
+export class Game {
     start() {
       console.log('game started');
     }

@@ -1,0 +1,23 @@
+{
+  "name": "importexport",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniyEgoorov/hw_js_modules_import_export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniyEgoorov/hw_js_modules_import_export/issues"
+  },
+  "homepage": "https://github.com/EvgeniyEgoorov/hw_js_modules_import_export#readme"
+}
